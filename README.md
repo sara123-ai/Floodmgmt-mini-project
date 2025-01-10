@@ -4,29 +4,31 @@ The Flood Management App is a comprehensive solution for managing and coordinati
 
 Features
 Role-Based System
-Admin:
-Manage the application and oversee activities.
-Flood Management Team (FMT):
-Register rescue teams and camps.
-Assign requests to appropriate units.
-Quick Response Team (QRT):
-Handle rescue operations.
-View camp information and rescue requests.
-Camp Coordinators:
-Register members.
-Request essential commodities.
-Update camp profiles.
-General Users:
-Request rescues.
-Update personal profiles.
-Modular Structure
-Splash Screen: Welcomes users and initializes the app.
-Login & Registration: Secure access for users based on roles.
+
+Admin : Manage the application and oversee activities.
+
+Flood Management Team (FMT) : Register rescue teams and camps,Assign requests to appropriate units.
+
+Quick Response Team (QRT) : Handle rescue operations,View camp information and rescue requests.
+
+Camp Coordinators:Register members,Request essential commodities,Update camp profiles.
+
+General Users:Request rescues,Update personal profiles,Modular Structure
+
+Splash Screen: Welcomes users and initializes the app,Login & Registration: Secure access for users based on roles.
+
 Dynamic Routing: Routes for various user roles and functionalities.
+
 Tech Stack
+
 Framework: Flutter
+
 Backend: Firebase
+
 Authentication
+
 Firestore Database
+
 Storage
+
 Messaging
